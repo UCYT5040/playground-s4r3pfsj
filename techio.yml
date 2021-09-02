@@ -1,7 +1,7 @@
-title: Python Project
+title: Create A Language In Python
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: Introduction
+  statement: markdowns/intro.md
 projects:
   python:
     root: /python-project
