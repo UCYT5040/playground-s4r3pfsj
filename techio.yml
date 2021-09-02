@@ -2,6 +2,8 @@ title: Create A Language In Python
 plan:
 - title: Introduction
   statement: markdowns/intro.md
+- title: Syntax
+  statement: markdowns/syntax.md
 projects:
   python:
     root: /python-project
